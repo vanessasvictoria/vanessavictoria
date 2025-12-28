@@ -6,10 +6,10 @@ I build practical, business-focused data products: analytics, automation, and sm
 Currently: finishing MSc/MBA work + building a portfolio for data/product roles.
 
 ## Featured projects
-- 🔹 **Basel Rent / Salary Explorer** — EDA + insights + dashboard (coming)
-- 🔹 **Churn Prediction Mini-ML** — baseline model + evaluation + Streamlit demo (coming)
-- 🔹 **Automation Toolkit** — scripts that save time (coming)
-- 🔹 **Solar/PV Toolkit (toy project)** — layout/estimation helpers based on real domain experience (coming)
+- 🔹 **Basel Rent / Salary Explorer** - EDA + insights + dashboard (coming)
+- 🔹 **Churn Prediction Mini-ML** - baseline model + evaluation + Streamlit demo (coming)
+- 🔹 **Automation Toolkit** - scripts that save time (coming)
+- 🔹 **Solar/PV Toolkit (toy project)** - layout/estimation helpers based on real domain experience (coming)
 
 ## Skills
 Python, Pandas, SQL, Power BI / Tableau, Git/GitHub, Product/Project Management, Prompting, Basic ML
